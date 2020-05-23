@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchcolorfilterredgreen
+Depends: firmware (>= 11.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Color Filter Red/Green
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Color Filter Red/Green
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
